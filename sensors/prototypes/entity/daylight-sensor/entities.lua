@@ -14,7 +14,7 @@ data:extend(
         percent = 70
       }
     },
-    selection_box = {{-0.25, -0.25}, {0.25, 0.25}},
+    selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
     inventory_size = 48,
     picture =
     {
@@ -47,7 +47,7 @@ data:extend(
     max_health = 55,
     corpse = "small-remnants",
     collision_box = {{-0.15, -0.15}, {0.15, 0.15}},
-    selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
+    selection_box = {{-0.25, -0.25}, {0.25, 0.25}},
     energy_source =
     {
       type = "electric",
