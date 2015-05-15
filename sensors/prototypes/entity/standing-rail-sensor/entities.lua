@@ -48,7 +48,7 @@ data:extend(
         percent = 70
       }
     },
-    selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
+    selection_box = {{-1, -1}, {1, 1}},
     inventory_size = 48,
     picture =
     {
